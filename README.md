@@ -1,17 +1,12 @@
-# laman_login_registrasi
+# Tugas 1
 
-Laman login-registrasi statis
+## Laman login-registrasi statis
 
-## Getting Started
+Proyek ini berisikan laman login statis yang dikerjakan sebagai bagian dari kegiatan pemrograman mobile.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Laman statis yang akan tampil ketika proyek dijalankan berisi:
+- Ucapan salam pembuka
+- 2 kolom input yang diperlukan untuk menampung input email serta password pengguna
+- 2 label di atas masing-masing kolom input untuk menerangkan data yang perlu dimasukkan pada suatu kolom input
+- Tombol Login
+- Satu kalimat singkat di bawah tombol "Login" yang mengarahkan pengguna untuk melakukan registrasi jika belum memiliki akun. Kata "Registrasi" diberi pewarnaan khusus untuk menandakan bahwa komponen tersebut seharusnya dapat ditekan.
